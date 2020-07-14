@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://78.media.tumblr.com/df59b5284f490f2db9d87db4463f7844/tumblr_mo9fx2ieeN1rd6819o1_1280.gif)
 
 ###  🌱 I’m currently learning more and more...
 

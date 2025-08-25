@@ -21,6 +21,7 @@ When I'm not coding, my mind is usually a storm of a bunch of random things. You
 -   🎲 Strategizing over board games.
 -   🛠️ Getting my hands dirty with some craftsmanship.
 -   🤖 Geeking out on AI, tech, history, and different cultures.
+-   🀄 checkout my [mahjong game manager](https://felipee1.github.io/mahjonguers/) with object recognition.
 -   👨‍🍳 Cooking up a storm and exploring new foods.
 -   🌳 Spending time in nature.
 -   🔎 discovering random new places.
